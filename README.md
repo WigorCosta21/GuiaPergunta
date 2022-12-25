@@ -13,6 +13,5 @@ Guia de Perguntas em javaScript e NodeJs, onde desenvolvi algumas habilidades.
 <p>-Rotas</p>
 <p>-EJS</p>
 <p>-Modais</p>
-<p>-EJS</p>
 <p>-Viws</p>
 <p>-Partials</p>
